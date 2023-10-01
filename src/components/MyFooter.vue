@@ -14,7 +14,7 @@
             <h1>Reach Out</h1>
             <p>agrohao@gmail.com</p>
             <p>P.O.Box KK 1234</p>
-            <p>Kentinkrono, Kumasi</p>
+            <p>Bonwire, Kumasi</p>
             <p>0234567890</p>
         </div>
         <div class="footer-container" id="socials">
