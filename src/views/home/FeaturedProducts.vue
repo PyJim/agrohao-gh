@@ -51,6 +51,7 @@
         flex-direction: column;
         align-items: center;
         padding-top: 50px;
+        overflow: hidden;
     }
     .pinterest{
         width: 100%;
