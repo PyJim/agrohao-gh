@@ -1,8 +1,6 @@
 <template>
     <div class="main" id="products">
-        <div class="featured">
-            <h1 id="featured-products">Featured Products</h1>
-        </div>
+        <h1 id="featured-products">Featured Products</h1>
         <div class="pinterest">
             <div class="image">
                 <img src="../../assets/a.png" alt="">
