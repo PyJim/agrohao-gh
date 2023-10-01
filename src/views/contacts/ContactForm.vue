@@ -51,6 +51,7 @@
         background-color: transparent;
     }
     .contact-form textarea{
+        resize: none;
         height: 150px;
         border-radius: 30px;
         margin-bottom: 20px;
