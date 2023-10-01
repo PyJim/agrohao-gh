@@ -8,7 +8,7 @@
         <div class="achievement">
             <font-awesome-icon :icon="['fas', 'people-line']" size="3x" style="color: white"/>
             <h1 class="value">{{customerCount}}K+</h1>
-            <h3 class="quantity">Satisfied Customers</h3>
+            <h3 class="quantity">Customers</h3>
         </div>
         <div class="achievement">
             <font-awesome-icon :icon="['fas', 'location-crosshairs']" size="3x" style="color: white"/>
