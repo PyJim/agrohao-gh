@@ -50,6 +50,9 @@
         margin-bottom: 20px;
         text-align: center;
     }
+    .texts p{
+        color: #8A91Ac;
+    }
     @media(max-width: 1110px){
         .main{
             flex-direction: column;
