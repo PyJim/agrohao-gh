@@ -19,9 +19,9 @@
         </div>
         <div class="footer-container" id="socials">
             <h1>Social Media</h1>
-            <a href="" class="social-icon"><font-awesome-icon :icon="['fab', 'facebook-f']" />  <em>@agrohao_gh</em></a>
-            <a href="" class="social-icon"><font-awesome-icon :icon="['fab', 'instagram']" />   <em>@agrohao_gh</em></a>
-            <a href="" class="social-icon"><font-awesome-icon :icon="['fab', 'x-twitter']" />   <em>@agrohao_gh</em></a>
+            <a href="" class="social-icon"><font-awesome-icon :icon="['fab', 'facebook-f']" />  <p>@agrohao_gh</p></a>
+            <a href="" class="social-icon"><font-awesome-icon :icon="['fab', 'instagram']" />   <p>@agrohao_gh</p></a>
+            <a href="" class="social-icon"><font-awesome-icon :icon="['fab', 'x-twitter']" />   <p>@agrohao_gh</p></a>
         </div>
     </div>
 </template>
@@ -72,7 +72,7 @@
         opacity: 0.8;
         margin: 5px 0;
     }
-    .footer-container a em{
+    .footer-container a p{
         font-size: 15px;
     }
     #socials{
@@ -98,7 +98,7 @@
             opacity: 0.8;
             margin: 2.5px 0;
         }
-        .footer-container a em{
+        .footer-container a p{
             font-size: 8px;
         }
     }
