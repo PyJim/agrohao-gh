@@ -48,11 +48,9 @@
     }
     .texts h1{
         margin-bottom: 20px;
-        text-align: center;
     }
     .texts p{
         color: #8A91Ac;
-        text-align: center;
     }
     @media(max-width: 1110px){
         .main{
