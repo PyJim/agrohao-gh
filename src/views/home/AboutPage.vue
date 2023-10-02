@@ -7,7 +7,7 @@
             </div>
             <div class="about-content">
                 <div class="about-content-text">
-                    <h1 class="text-title">Ghana's leadding agrochemical company</h1>
+                    <h1 class="text-title">Ghana's leading agrochemical company</h1>
                     <p>Vivamus id ligula nec tortor commodo mollis nec ut mauris. Vestibulum blandit lacus nec nunc pretium, auctor porttitor tortor auctor. Etiam dictum luctus metus in dictum. Donec elit metus, tincidunt eget nisl eget, vestibulum eleifend massa.</p>
                     <br>
                     <p>Blandit lacus nec nunc pretium, auctor porttitor tortor auctor. Etiam dictum luctus metus in dictum. Donec elit metus, tincidunt eget nisl eget, vestibulum eleifend massa.</p>
