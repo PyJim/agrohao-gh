@@ -24,7 +24,7 @@
         width: 100%;
         height: auto;
         display: flex;
-        background-color: #032D26;
+        background-color: #0a5145;
     }
     .map, .contact-form{
         width: 50%;
