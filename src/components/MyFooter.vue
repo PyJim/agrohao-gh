@@ -58,6 +58,9 @@
         font-size: 18px;
         color: white;
         margin: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     .footer-container a:hover, a.router-link-exact-active{
         color: #33820D;
@@ -74,6 +77,7 @@
     }
     .footer-container a p{
         font-size: 15px;
+        margin-left: 5px;
     }
     #socials{
         justify-content: center;

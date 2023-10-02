@@ -47,6 +47,7 @@
     }
     .texts p{
         color: #8A91Ac;
+        line-height: 1.5em;
     }
     @media(max-width: 1110px){
         .main{
