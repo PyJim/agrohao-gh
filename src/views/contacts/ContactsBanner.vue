@@ -1,10 +1,6 @@
 <template>
     <div class="home" id="home">
-        <div class="home-content">
-            <div class="texts">
-                <h1 id="company-name">Contact Us</h1>
-            </div>
-        </div>
+        
     </div>
 </template>
 

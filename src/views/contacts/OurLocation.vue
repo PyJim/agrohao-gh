@@ -1,10 +1,5 @@
 <template>
     <div class="main">
-        <div class="image">
-            <img src="../../assets/agrochemist.png" alt="">
-        </div>
-        
-
         <div class="texts">
             <h3 id="contact-us">Contact Us</h3>
             <h1 class="text-title">Locate our office</h1>
@@ -29,15 +24,6 @@
         display: flex;
         justify-content: center;
         align-items: center;
-    }
-    .main .image{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background-color: #032D26;
-    }
-    .main .image img{
-        width: 100%;
     }
     .main .texts{
         margin: 0 25px;
@@ -72,15 +58,6 @@
             margin: 0;
             padding: 50px 0;
         }
-        .image{
-            width: 100vw;
-            height: 60vh;
-        }
-        .image img{
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        } 
     }
 
 </style>
