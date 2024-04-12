@@ -1,7 +1,7 @@
 <template>
     <div class="main">
         <h3>Copyright © 2023 Agrohao Ghana</h3>
-        <h5>Designed by JEK IT Services</h5>
+        <h5>Designed by PrinTech</h5>
     </div>
 </template>
 
